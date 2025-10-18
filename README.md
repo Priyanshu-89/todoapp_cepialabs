@@ -5,7 +5,7 @@ Manage your tasks efficiently with add, edit, delete, and complete features.
 
 ---
 
-![Todo App Preview](src/assets/todo.gif)
+![Todo App Preview](src/assets/todo.gif) 
 
 ## Features
 
